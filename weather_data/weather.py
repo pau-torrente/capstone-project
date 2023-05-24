@@ -9,7 +9,7 @@ import csv
 key = 'enJH8FUX2z5Ar7NSCJvYI8pAIuDW0XDV9nbSkEMj'
 
 start_date = dt.date(2019, 1, 1)
-end_date = dt.date(2022, 12, 31)
+end_date = dt.date(2023, 3, 31)
 
 assert start_date < end_date, 'Start date must be before end date'
 
