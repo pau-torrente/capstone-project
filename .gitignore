@@ -1,3 +1,9 @@
-data
+data/
 data/data_bicing_joined_HX.csv
 data/data_bicing_joined_HX.hyper
+prepped_data/
+prepped_data/y_t_traintest.csv
+prepped_data/X_submission.csv
+prepped_data/full_data_2_predict.csv
+prepped_data/full_data.csv
+prepped_data/X_to_traintest.csv
